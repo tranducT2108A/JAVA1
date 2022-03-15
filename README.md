@@ -1,1 +1,2 @@
-# JAVA1
+# java2
+java exercise 2
